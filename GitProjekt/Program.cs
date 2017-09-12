@@ -6,7 +6,7 @@ namespace GitProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Rumsnummer");
+            Console.WriteLine("Vänligen fyll i ditt rumsnummer");
 
         }   
     }
