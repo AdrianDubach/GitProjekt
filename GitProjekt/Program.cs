@@ -8,12 +8,12 @@ namespace GitProjekt
         {
             Console.WriteLine("Hallå där!");
 
-            Console.WriteLine("Syntax error");
-            Console.WriteLine("Syntax error");
-            Console.WriteLine("Syntax error");
-            Console.WriteLine("Syntax error");
+            Console.WriteLine("Syntax error");      //Gökhan
+            Console.WriteLine("Syntax error");      //Gökhan
+            Console.WriteLine("Syntax error");      //Gökhan
+            Console.WriteLine("Syntax error");      //Gökhan
 
-            Console.ReadKey();
-        }
+            Console.ReadKey();      //Gökhan
+        }   
     }
 }
