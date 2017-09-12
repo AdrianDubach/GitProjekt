@@ -12,6 +12,7 @@ namespace GitProjekt
             Console.WriteLine("Syntax error");      //Gökhan
             Console.WriteLine("Syntax error");      //Gökhan
             Console.WriteLine("Syntax error");      //Gökhan
+            Console.Writeline("Input_coffee");
 
             Console.ReadKey();      //Gökhan
         }   
