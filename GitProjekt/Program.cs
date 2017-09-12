@@ -7,6 +7,13 @@ namespace GitProjekt
         static void Main(string[] args)
         {
             Console.WriteLine("Hallå där!");
+
+            Console.WriteLine("Syntax error");
+            Console.WriteLine("Syntax error");
+            Console.WriteLine("Syntax error");
+            Console.WriteLine("Syntax error");
+
+            Console.ReadKey();
         }
     }
 }
