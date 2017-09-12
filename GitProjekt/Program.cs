@@ -6,7 +6,7 @@ namespace GitProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HAllå där!");
+            Console.WriteLine("Hallå där!");
         }
     }
 }
