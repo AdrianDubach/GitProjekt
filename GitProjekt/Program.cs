@@ -6,7 +6,7 @@ namespace GitProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Syntax rockar");
         }
     }
 }
