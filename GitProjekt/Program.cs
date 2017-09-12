@@ -7,6 +7,8 @@ namespace GitProjekt
         static void Main(string[] args)
         {
             Console.WriteLine("Vänligen fyll i ditt rumsnummer");
+            string inmatat;
+            inmatat = Console.ReadLine();
 
         }   
     }
