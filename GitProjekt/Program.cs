@@ -6,7 +6,15 @@ namespace GitProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Syntax rockar");
-        }
+            Console.WriteLine("Hallå där!");
+
+            Console.WriteLine("Syntax error");      //Gökhan
+            Console.WriteLine("Syntax error");      //Gökhan
+            Console.WriteLine("Syntax error");      //Gökhan
+            Console.WriteLine("Syntax error");      //Gökhan
+            Console.WriteLine("Input_coffee");
+
+            Console.ReadKey();      //Gökhan
+        }   
     }
 }
